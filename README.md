@@ -4,7 +4,7 @@ This project demonstrates an end-to-end Sales Analytics solution in Power BI. It
 
 The dashboard provides business insights on sales performance, revenue trends, customer distribution, and future sales forecasting, helping stakeholders make data-driven decisions.
 
- Key Features
+# Key Features
 
  Data Import and Cleaning using Power Query
  Data Modeling with DAX Measures & Calculations
